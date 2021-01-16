@@ -1,5 +1,8 @@
 ### Hi there 👋
+[![爱发电](https://img.shields.io/badge/%E8%B5%9E%E5%8A%A9-%E7%88%B1%E5%8F%91%E7%94%B5-936BE5)](https://afdian.net/@juzhijian)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=juzhijian&show_icons=true&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juzhijian&layout=compact&hide_border=true&hide=html,css)
 <!--
 **juzhijian/juzhijian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
